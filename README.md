@@ -1,51 +1,165 @@
-Report on the Field Trip to Sindh Agriculture University (Tandojam, Sindh)
-Date of Trip: [Insert Date]
-Location: Sindh Agriculture University, Tandojam, Sindh
-Introduction:
-On [Insert Date], a group of students from the Federal Urdu University of Arts, Science, and Technology embarked on a field trip to the Sindh Agriculture University (SAU), Tandojam, Sindh. The objective of this trip was to gain firsthand knowledge of the various research projects and laboratories focused on agricultural sciences, entomology, pest management, and biological control of pests.
-
-The journey began at 8:50 AM from the Federal Urdu University, and after a four-hour drive, we arrived at SAU at approximately 12:30 PM. The students were warmly received by Dr. Irfan Ahmed Gilal, a faculty member at SAU, who guided us throughout the visit. The tour allowed us to explore different labs and research areas at SAU, with a special focus on the work being done in the fields of entomology and pest management.
-
-Visit to the Entomology Lab:
-The first stop of our tour was the Entomology Lab, where Dr. Irfan provided an introduction to the university and the various ongoing research projects. He explained the significant contributions of his department and how the students actively engage in fieldwork, researching the behavior and classification of insects. A key feature of the lab was the unique method of preserving insects for study, which has been developed by the department to maintain the quality and longevity of specimens.
-Dr. Irfan also highlighted the importance of studying the morphological and taxonomical characteristics of insects, which is crucial for identifying different species and understanding their role in the ecosystem.
-
-Visit to the Store Grain Pest Lab:
-Next, we moved to the Store Grain Pest Lab, where we were greeted by Miss Fatima, who gave an informative presentation on the key differences between beetles and weevils. The presentation included visual aids to help us better understand the biological and behavioral differences between these pests, which are often found in stored grain and agricultural produce.
-
-Dr. Irfan also gave a brief but insightful presentation on pest management, explaining the use of various methods to control pests, including the application of UV rays and other innovative technologies. One of the key takeaways was the importance of sustainable pest control methods in the agricultural sector.
-
-Botanical Insecticides:
-Following the pest management discussion, Dr. Irfan provided a brief lecture on botanical insecticides. He explained how these insecticides are derived from plant sources and the various methods of their production. Dr. Irfan emphasized the benefits of botanical insecticides as eco-friendly and sustainable alternatives to chemical pesticides, making them an essential part of modern pest management practices.
-
-Biological Control of Pests:
-We then moved on to the Biological Control of Pest Lab, where Dr. Aslam gave a detailed presentation on the biological methods of pest control. He discussed how different species of insects can be used to control pest populations naturally, reducing the need for harmful chemicals. One of the examples provided by Dr. Aslam involved the ongoing research on Dysdercus koenigii, a species being studied for its role in pest control.
-
-Department of Entomology:
-After the Biological Control Lab, we visited the Department of Entomology, where new labs are set up for advanced research. In the first lab, we were introduced to various instruments used in insecticide application, such as drones and sprayers. We also saw the light trap, an innovative device used to attract and capture flying insects for study.
-
-The lab also focuses on apiculture (the study of beekeeping) and the development of new honey varieties. Dr. Irfan gave us a lecture on the importance of pest management, focusing on formulation techniques for pesticides and the safety measures necessary when applying them in the field.
-
-New Biological Control Lab:
-Our next stop was a newly established Biological Control Lab, where various insects are being reared to increase the population of natural enemies of pests. One of the students is currently working on an M.Phil. project related to Dysdercus koenigii, a species of insect known for its potential in biological pest control.
-
-Visit to the Greenhouse:
-Finally, we visited the Greenhouse, where Dr. Irfan briefed us about the ongoing plant experiments. The greenhouse serves as a controlled environment for testing different crops and plant varieties, which can withstand various environmental conditions and pests. The plants in the greenhouse are part of broader research efforts aimed at improving agricultural productivity and sustainability.
-
-Acknowledgments:
-We would like to express our sincere gratitude to the faculty members and staff of Sindh Agriculture University, Tandojam, for their warm hospitality and for providing us with an insightful and informative experience. A special thanks to Dr. Irfan Ahmed Gilal for his excellent guidance throughout the visit and for sharing his vast knowledge on pest management, entomology, and sustainable agricultural practices.
-
-We would also like to extend our heartfelt appreciation to our Zoology Department teachers, Sir Zubair and Mam Uzma, for organizing this field trip and for their continuous support and encouragement. Their dedication to providing us with real-world learning experiences is truly commendable.
-
-This field trip has been an invaluable experience, deepening our understanding of pest management, biological control methods, and the role of entomology in modern agriculture.
-
-Conclusion:
-In conclusion, our visit to Sindh Agriculture University was both educational and enriching. The exposure to various labs, research projects, and practical demonstrations gave us a deeper understanding of the challenges and innovations in the field of pest management and entomology. We hope to apply the knowledge gained from this trip in our academic and future professional endeavors.
-
-Report Prepared By: [Your Name]
-[Department Name]
-Federal Urdu University of Arts, Science and Technology
-[Date]
+The Protected Areas are recognized as an effective tool in 
+conserving biodiversity and ecosystems. The Red List of 
+Threatened Species (World Conservation Union-IUCN) 
+documents that the loss of natural habitats is a 
+predominant threat to biodiversity, and protected areas are 
+widely regarded as one of the most successful measures 
+implemented for the conservation of biodiversity. 
+Currently, the World Database on Protected Areas has 
+documented 148,000 protected areas worldwide (IUCN, 
+2013). 
+Pakistan has three categories of protected areas: National 
+Parks, Wildlife Sanctuaries, and Game Reserves (Khan et 
+al., 
+2010). The Khirthar Protected Areas Complex 
+(KPAC) stretches over 4,350 km2, encompassing the 
+protected areas (PAs) that lie in Kohistan in the southwest 
+of Sindh. The KPAC comprises of Khirthar National Park 
+(KNP), the Mahal Kohistan Wildlife Sanctuary (MKS), 
+Hab Dam Wildlife Sanctuary (HDS), the Surjan, Sumbak, 
+Eri, and Hothiano Game Reserves (SGR). Khirthar 
+National Park is listed as a Protected Category II area by 
+the IUCN, and is the first of Pakistan's national parks to 
+be included in the 1975 United Nation's list of National 
+Parks and Equivalent Reserves. 
 
 
 
+Khirthar National Park (KNP)  
+Khirthar National Park is one of Pakistan’s largest 
+National Park on area of 308,733 hectares. It was 
+established in 1974 for conservation of threatened 
+mammal species such as Sindh Ibex (Capra aegagrus), 
+Urial (Ovis vignei), Chinkara (Gazella bennettii) and 
+indigenous flora and fauna. Several other species like 
+Desert wolf, Leopard, Striped hyaena, Desert wolf, Jungle 
+cats, Porcupine and Pangolin are also resident of this park 
+(Roberts, 1997).  
+ 
+It was the first park incorporated in the listing system of 
+Uniter Nation`s National Parks in 1975 (Khan et al., 
+2013). Hot spots of vertebrate wildlife are found in 
+croplands and wetlands while lowest in mountain areas. 
+Total 277 vertebrate species were found including 36 
+species of mammals (Table 6a, 6b), 207 species of birds 
+(Table 7), 42 species of reptiles (Table 8) and three 
+species of amphibians (Table 9). 
+ 
+In the Khirthar National Park highest vertebrate wildlife is 
+found in wetlands and croplands and the lowest in moutain sites. 
+The formland area observed relatively less importance to several of the rarer species. Khirthar 
+National Park (3087km2) is part of the Khirthar Protected 
+Areas Complex (KPAC) that stretches over 4350km2 and 
+comprises of Mahal Kohistan Wildlife Sanctuary (705.7 
+km2), Surjan Game Reserve, Sambak Game Reserve, Eri 
+Game Reserve, Huthiano Game Reserve (285.3km2) and 
+Hub Dam Wildlife Sanctuary (272km2) (Khan et al., 
+2013). Due to the presence of several threatened species, 
+such as: Imperial Eagle, Pallas’s Fishing Eagle, 
+Dalmatian Pelican, Sociable Lapwing, Indian Skimmer 
+and Great White Pelican Khirthar National Park and Hub 
+Dam are included as Important Bird Area (IBAs) (Khan et 
+al., 2012).
+
+
+
+Table 2. A Checklist of the Mammals of Khirthar Protected Area Complex. 
+ 
+S. No. Order Family Scientific Name Common Name 
+01  Insectivore Erinaceidae Hemiechinus collaris Longeared or Desert Hedgehog 
+02  Insectivora Erinaceidae Paraechinus micropus Indian Hedgehog 
+03 Chiroptera Vespertilionidae Scotophilus pallidus Yellow Desert Bat 
+04 Chiroptera Vespertilionidae Scotophilus kuhlii Lesser House Bat 
+05 Carnivora Hyaenidae Hyaena hyaena Striped Hyaena 
+06 Carnivora Canidae Canis aureus Asiatic Jackal 
+07 Carnivora Canidae Canis lupus Wolf 
+08 Carnivora Canidae Vulpes bengalensis Indian Fox 
+09 Carnivora Canidae Vulpes vulpes Red fox 
+10 Carnivora Mustellidae Mellivora capensis Ratel or Honey Badger  
+11 Carnivora Herpestidae Herpestes edwardsi Grey Mongoose 
+12 Carnivora Herpestidae Herpestes javanicus  Small Indian Mongoose 
+13 Carnivora Felidae Felis silvestris Desert Cat 
+14 Carnivora Felidae Felis chaus Jungle Cat 
+15 Carnivora Felidae Felis caracal Caracal  
+16 Carnivora Felidae Panthera pardus Leopard 
+17 Pholidota  Manidae Manis crassicaudata Indian Pangolin 
+18 Artiodactyla Bovidae  Capra aegagrus Sind Wild Goat or Sindh Ibex 
+19 Artiodactyla Bovidae  Ovis vignei Urial 
+20 Artiodactyla Bovidae  Gazella bennettii Chinkara 
+21 Lagomorpha Leporidae Lepus migricollis Indian Hare 
+22 Rodentia Sciuridae Funambulus pennantii Striped Palm Squirrel 
+23 Rodentia Hystricidae Hystrix indica  Indian Porcupine 
+24 Rodentia Muridae Rattus rattus Roof Rat / House Rat 
+25 Rodentia Muridae Mus musculus House Mouse 
+26 Rodentia Muridae Mus booduga Little Indian Field Mouse 
+27 Rodentia Muridae Mus saxicola Grey Spiny Mouse 
+28 Rodentia Muridae Golunda ellioti Indian Bush Rat 
+29 Rodentia Muridae Acomys cahirinus Cairo Spiny Mouse 
+30 Rodentia Muridae Calomyscus bailwardi Mouse like Hamster 
+31 Rodentia Muridae Gerbillus nanus Balochistan Gerbil 
+32 Rodentia Muridae Tatera indica Indian Gerbil 
+33 Rodentia Muridae Meriones hurrianae Indian Desert Jird
+
+
+Table 6b. List of Large mammals recorded at Khirthar 
+National Park (Khan et al., 2013). 
+S. No. Species KNP (Khar) KNP (Karchat) 
+1 Urial + + 
+2 Chinkara + + 
+3 Ibex + + 
+4 Jungle Cat + + 
+5 Desert Cat + + 
+6 Jackal + + 
+7 Red Fox + + 
+8 Indian Fox + + 
+9 Honey Badger Foot Prints Foot Prints 
+10 Hyaena Foot Prints Foot Prints 
+11 Caracal Foot Prints Foot Prints 
+
+
+
+Table 4. Total number of Large Mammals sighted in the Khirthar Protected Area Complex during 2010-2011. 
+ 
+No.  Species KNP (Khar) KNP (Karchat) Game Reserves Total 
+1 Urial 300 700 - 1000 
+2 Chinkara 30 100 20 150 
+3 Ibex 500 600 100 1200 
+4 Indian Fox 02 04 02 08 
+5 Red Fox 08 12 05 25 
+6 Jackal 15 20 05 40 
+7 Desert Cat 04 10 06 20 
+8 Jungle Cat 02 10 - 12 
+
+
+
+ Table 2. Distribution of Bird Species in the different 
+components of the Khirthar Protected Area Complex. 
+ 
+S. 
+No. Area Number 
+of Species 
+1 Hub Dam Wildlife Sanctuary 160 
+2 Mahal Kohistan Wildlife 
+Sanctuary 
+33 
+3 Surjan, Sumbak, Eri and Huthiano 
+Game Reserves 
+19 
+4 Khirthar National Park (including 
+Khar Centre area) 
+90 
+ 
+Table 3. Status of various Species of Birds in the Khirthar 
+Protected Area Complex. 
+ 
+S. 
+No. Status Number 
+of Species 
+1 Resident Species 101 
+2 Winter visitors 84 
+3 Passage Migrants 18 
+4 Summer Breeding Visitors 04
+
+
+
+Photographs of some important birds of Khirthar Protected Areas Complex. 
